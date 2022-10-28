@@ -1,4 +1,26 @@
-# Getting Started with Create React App
+# PokeDex
+A simpel pokedex web app made using React Js
+
+| Home page | Detail pokemon |
+| ----------- | ----------- |
+| ![Home page](/screenshoot/home.png) | ![Detail pokemon](/screenshoot/detail.png) |
+
+
+## Run locally
+### Requirements
+1. [Node js](https://nodejs.org)
+2. Node_modules, type in terminal `npm install or yarn install`
+
+## How to run app
+1. Clone this project to your local computer
+2. Open this project in your code editor and type `npm install or yarn install` in terminal
+3. type `yarn dev` or `npm run dev` on terminal
+
+# Built With
+- [React](https://reactjs.org/)
+- [TailwindCss](https://tailwindcss.com/)
+- [Axios](https://axios-http.com/)
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +89,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
