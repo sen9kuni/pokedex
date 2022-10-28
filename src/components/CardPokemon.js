@@ -30,7 +30,7 @@ export default function CardPokemon({namePoke}) {
           <div className='flex flex-row gap-2'>
             {error !== null && <span>{error}</span>}
             {detail.types?.map((e,i) => 
-              <div className={`min-w-[80px] py-1 px-2 flex justify-center items-center rounded-full text-black font-bold ${bgType(e.type.name)} text-white border-2 border-slate-50 uppercase`} key={i+namePoke}>
+              <div className={`min-w-[80px] py-1 px-2 flex justify-center items-center rounded-full text-black font-bold ${bgType(e.type.name)} text-white border-2 border-slate-50 capitalize`} key={i+namePoke}>
                 <span>{e.type.name}</span>
               </div>
             )}
