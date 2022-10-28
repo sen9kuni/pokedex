@@ -1,11 +1,14 @@
 # PokeDex
-A simpel pokedex web app made using React Js
+A simpel pokedex web app made using React Js and [PokeApi](https://pokeapi.co/)
 
 | Home page | Detail pokemon |
 | ----------- | ----------- |
 | ![Home page](/screenshoot/home.png) | ![Detail pokemon](/screenshoot/detail.png) |
 
 
+## Note
+- Deploy use [Vercel](https://vercel.com)
+- Deploy Ver. [here](https://pkmndex-sen9kuni.vercel.app/)
 ## Run locally
 ### Requirements
 1. [Node js](https://nodejs.org)
